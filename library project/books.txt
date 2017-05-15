@@ -1,0 +1,7 @@
+                              1                           one                           one                            20
+                              3                         three                         three                            52
+                              4                          four                          four                            10
+                              9                             9                             9                             9
+                              2                             2                             2                             2
+                              6                             6                             6                             6
+                              5                             5                             5                             5
